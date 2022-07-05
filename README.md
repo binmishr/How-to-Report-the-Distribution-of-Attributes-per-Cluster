@@ -1,5 +1,8 @@
 # How-to-Report-the-Distribution-of-Attributes-per-Cluster
 
+The details of the codeset and plots are included in the attached Adobe Acrobat reader (.pdf) file in this repository. 
+You need to download the same to view the contents. There are referrals to other contents in BLUE colour also to follow.
+
 Let’s say that you have applied your Clustering algorithm and you would like to report the distribution of the categorical variables per cluster in a “tidy” report. Below you can see a suggestion of how you can do it in R.
 Generate the Data
 
